@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>328164945037-trohrvleru77332v2i3meukd26ku9anc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.328164945037-trohrvleru77332v2i3meukd26ku9anc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBRtNyILmkFp7SOqWBvs8VsLUMEGpWnY3E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>328164945037</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>akbar.newSocialApp</string>
+	<key>PROJECT_ID</key>
+	<string>haaynew-d919e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>haaynew-d919e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:328164945037:ios:d63dc8deaecf36c20e86c4</string>
+	<key>DATABASE_URL</key>
+	<string>https://haaynew-d919e.firebaseio.com</string>
+</dict>
+</plist>
